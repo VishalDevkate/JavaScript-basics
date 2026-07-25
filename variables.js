@@ -11,6 +11,7 @@ let $num = 42;
 let _num = 100;
 let num1 = 200;
 //let 2num = 300;   // This will throw an error because variable names cannot start with a number
+//let throw = "valid variable name"; //can not use reserved keywords as variable names
 console.log(`$num: ${$num}`);
 console.log(`_num: ${_num}`);
 console.log(`num1: ${num1}`);
